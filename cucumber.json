@@ -8,7 +8,7 @@
     ],
     "publishQuiet": true,
     "dryRun": false,
-    "require": ["tests/steps/*soundsPage.Steps.ts",
+    "require": ["tests/steps/*.ts",
                 "tests/hooks/hooks.ts"
 
                
